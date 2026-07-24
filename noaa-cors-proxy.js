@@ -1,4 +1,4 @@
-/**
+ /**
  * NOAA CORS Proxy — Scalar Coherence Gate
  * Forwards requests to NOAA APIs with CORS headers for Pages origin(s).
  */
