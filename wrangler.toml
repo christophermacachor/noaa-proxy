@@ -4,5 +4,5 @@ compatibility_date = "2026-07-23"
 account_id = "743b8c88ff9d9d1a45b1d7a09cf786d0"
 
 routes = [
-  { pattern = "https://noaa.macachor.org/*", custom_domain = true }
+  { pattern = "noaa.macachor.org/*", custom_domain = true }
 ]
