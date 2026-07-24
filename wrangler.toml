@@ -1,4 +1,4 @@
-name = "noaa-proxy"
+https://github.com/christophermacachorname = "noaa-proxy"
 main = "noaa-cors-proxy.js"
 compatibility_date = "2026-07-23"
 account_id = "743b8c88ff9d9d1a45b1d7a09cf786d0"
